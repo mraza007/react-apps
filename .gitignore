@@ -1,0 +1,15 @@
+coin-flip/node_modules
+colorbox/node_modules
+hangman/node_modules
+hello/node_modules
+lotto/node_modules
+pokedex/node_modules
+roll-dice/node_modules
+
+coin-flip/.git/
+colorbox/.git/
+hangman/.git/
+hello/.git/
+lotto/.git/
+pokedex/.git/
+roll-dice/.git/
