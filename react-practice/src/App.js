@@ -10,7 +10,8 @@ import Icons from './Icons';
 import Form from './Forms'
 import MultipleForm from './MultipleForm'
 import Shopping from './Shopping';
-
+import Ajax from './Ajax';
+import Async from './Async';
 
 function App() {
   return (
@@ -25,7 +26,9 @@ function App() {
     {/* <Icons/> */}
     {/* <Form /> */}
     {/* <MultipleForm /> */}
-    <Shopping/>
+    {/* <Shopping/> */}
+    {/* <Ajax/> */}
+    <Async username="mraza007"/>
     
     
     </div>
